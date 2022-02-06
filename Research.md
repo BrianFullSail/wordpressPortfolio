@@ -31,7 +31,7 @@ An online portfolio is a critical part of the developer. A good portfolio is a g
 - Creative
 - Lack of excess
 - Examples of past work
-- Shows the best work
+- Shows the best work - "Not every design you’ve ever done needs to be included in your portfolio. In fact, it’s better to only showcase specific examples rather than everything. Most potential clients aren’t going to sit and look through everything anyway, so be sure that what you display has been chosen for maximum impact." (10 CHARACTERISTICS OF EXCELLENT PORTFOLIO SITES, 2008)
 
 <br>
 
