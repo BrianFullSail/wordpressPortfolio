@@ -9,7 +9,7 @@ balvarado@student.fullsail.edu -- (813) 817-5575
 
 <br>
 
-# My Wordpress Portfolio 
+# My WordPress Portfolio 
 This repo is documenting my progress for my Wordpress portfolio. During this month I will be updating and documenting my progress. 
 
 **Week 1**: I will be doing research and making a proposal for my portfolio. A video will be submitted for Youtube show casing my portfolio progress from Wordpress. I am new to Wordpress and will be conducting some research on it as well as some ideas for my portfolio on Wordpress. 
