@@ -1,4 +1,4 @@
-# Project & Portfolio VI 
+# Project & Portfolio VII 
 
 * **RESEARCH - WordPress**
 * **Brian Alvarado**
