@@ -19,3 +19,5 @@ This repo is documenting my progress for my Wordpress portfolio. During this mon
 **Week 3**: This week is planned for watching the instructional videos and apply as much time as possible to the portfolio when I return home on the 19th. Into week 4 I should have all my projects and portfolio updated for my final video submission along with the portfolio itself. 
 
 **Week 4**:
+
+## [Portfolio](http://therealbrianalvarado.com)
